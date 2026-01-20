@@ -42,27 +42,27 @@ achievement-6-happiness-analysis/
 ## Notebooks Overview
 
 ## Exploratory_Analysis.ipynb
-	•	Data inspection and preparation
-	•	Selection of relevant numeric variables
-	•	Correlation analysis and interpretation
-	•	Scatter plots with regression trends
-	•	Preliminary hypotheses
+	- Data inspection and preparation
+	- Selection of relevant numeric variables
+	- Correlation analysis and interpretation
+	- Scatter plots with regression trends
+	- Preliminary hypotheses
 
 ## Modeling_Methods_Overview.ipynb
-	•	Overview of analytical approaches applied after exploration
-	•	Linear regression
-	•	K-means clustering
-	•	Time-series analysis using U.S. unemployment data
-	•	Discussion of insights and methodological limitations
+	- Overview of analytical approaches applied after exploration
+	- Linear regression
+	- K-means clustering
+	- Time-series analysis using U.S. unemployment data
+	- Discussion of insights and methodological limitations
 
 ⸻
 
 ## Tableau Visualization
 
 Key findings are presented in an interactive Tableau story, including:
-	•	Global distribution of happiness scores
-	•	Relationships between happiness, GDP per capita, and social support
-	•	Summary insights, limitations, and next steps
+	- Global distribution of happiness scores
+	- Relationships between happiness, GDP per capita, and social support
+	- Summary insights, limitations, and next steps
 
 Tableau Public link:
 https://public.tableau.com/views/Achievement6HappinessEconomicFactors/Achievement6HappinessEconomicFactors
@@ -70,13 +70,13 @@ https://public.tableau.com/views/Achievement6HappinessEconomicFactors/Achievemen
 ⸻
 
 ## Limitations
-	•	Single-year, cross-sectional data
-	•	Associations observed do not imply causation
-	•	Happiness scores are self-reported
+	- Single-year, cross-sectional data
+	- Associations observed do not imply causation
+	- Happiness scores are self-reported
 
 ⸻
 
 ## Next Steps
-	•	Extend the analysis to multiple years
-	•	Include additional explanatory variables
-	•	Apply more advanced modeling techniques
+	- Extend the analysis to multiple years
+	- Include additional explanatory variables
+	- Apply more advanced modeling techniques
