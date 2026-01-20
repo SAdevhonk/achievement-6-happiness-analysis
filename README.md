@@ -55,7 +55,7 @@ achievement-6-happiness-analysis/
 	- Time-series analysis using U.S. unemployment data
 	- Discussion of insights and methodological limitations
 
-⸻
+---
 
 ## Tableau Visualization
 
@@ -67,14 +67,14 @@ Key findings are presented in an interactive Tableau story, including:
 Tableau Public link:
 https://public.tableau.com/views/Achievement6HappinessEconomicFactors/Achievement6HappinessEconomicFactors
 
-⸻
+---
 
 ## Limitations
 	- Single-year, cross-sectional data
 	- Associations observed do not imply causation
 	- Happiness scores are self-reported
 
-⸻
+---
 
 ## Next Steps
 	- Extend the analysis to multiple years
