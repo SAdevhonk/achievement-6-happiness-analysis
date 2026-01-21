@@ -13,7 +13,7 @@ The work was completed as part of Achievement 6 using Python for data analysis a
   - GDP per capita  
   - Social support  
   - Healthy life expectancy  
-- Identify variables most strongly associated with happiness  
+- Identify socio-economic variables most strongly associated with happiness scores
 - Communicate insights through clear visualizations  
 
 ---
@@ -53,7 +53,7 @@ Modeling_Methods_Overview.ipynb
 - Overview of analytical approaches applied after exploration
 - Linear regression
 - K-means clustering
-- Time-series analysis using U.S. unemployment data
+- Conceptual time-series analysis using U.S. unemployment data
 - Discussion of insights and methodological limitations
 
 ---
